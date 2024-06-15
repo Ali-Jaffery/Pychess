@@ -47,7 +47,7 @@ pip install pygame
 ### Installation
 Clone the repository:
 ```
- git clone https://github.com/zeeshanibrarali/Chess-Engine-in-python-using-pyGame
+ git clone https://github.com/Ali-Jaffery/Pychess
  cd chess
 ```
 ### Run the game:
@@ -83,8 +83,8 @@ Thanks to the Pygame community for the graphics library.
 
 ## Screenshots
 
-![main page](chess/screenshots/img.png)
-![main page with highlighting](chess/screenshots/img_1.png)
+![main page](screenshots/img.png)
+![main page with highlighting](screenshots/img_1.png)
 
 
 
